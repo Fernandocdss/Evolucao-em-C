@@ -1,0 +1,12 @@
+# Compilação e Binários (Arquivos gerados pelo compilador)
+*.o
+*.obj
+*.out
+
+# Executáveis gerados no Windows e Mac/Linux
+*.exe
+*.app
+main
+
+# Pastas de configuração do VS Code (opcional, mas recomendado)
+.vscode/
